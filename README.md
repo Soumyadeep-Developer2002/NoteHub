@@ -1,4 +1,5 @@
-#NoteHub
+**NoteHub**
+
 The “**NoteHub**” is an app where you add notes for your daily life. This is developed using Flutter. NoteHub is a clean and functional notes app. Here we can add our notes and whenever we want, we can update and delete our notes.
 
 **Tech stack used:**
