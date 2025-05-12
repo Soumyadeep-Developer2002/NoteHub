@@ -10,17 +10,18 @@ NoteHub is a clean and functional notes app. Here we can add our notes and whene
      
 **Here some pictures:**
   1. When no notes have been saved yet
-     ![NoteHub_01](https://github.com/user-attachments/assets/8c6bacf0-a72c-4a9f-b5ea-0d81f8cd791b)
-
+     ![NoteHub_01](https://github.com/user-attachments/assets/114418f3-76e8-4427-b94c-ed029d6e0fcf)
+     
 
   2. The page where we will add notes
-     ![NoteHub_02](https://github.com/user-attachments/assets/28abb822-f16c-45b4-8af9-5e8b914368b8)
+     ![NoteHub_02](https://github.com/user-attachments/assets/24782d36-a0b1-4e09-b2dd-7d91f5e2fa1b)
 
 
   3. There are 2 options here - i. edit, ii. delete
-     ![NoteHub_04](https://github.com/user-attachments/assets/bebec0c6-4e74-4275-86ba-1df9e93a9e83)
+     ![NoteHub_04](https://github.com/user-attachments/assets/fd05f498-3b52-43d3-9ac0-f706d9406717)
 
 
   4. Here we can update the notes as we like
-     ![NoteHub_05](https://github.com/user-attachments/assets/e8d10d3f-eec1-4483-946e-88f87adb8383)
+     ![NoteHub_05](https://github.com/user-attachments/assets/808e70ef-3be6-4936-8086-836225343a6f)
+
 
